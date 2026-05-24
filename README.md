@@ -1,5 +1,14 @@
+# Synchronous FIFO — Three Industry Techniques (Verilog)
 
-# FIFO Design Techniques in Verilog (Synchronous FIFO)
+| | |
+|---|---|
+| **Type** | RTL design study · Buffer / queue |
+| **Language** | Verilog |
+| **Variants** | 3 full/empty schemes (comparable TBs) |
+| **Tools** | Icarus Verilog · ModelSim · GTKWave |
+| **Next step** | [FIFO_ASYNC](https://github.com/RAJ-07-RAJ/FIFO_ASYNC) (Gray-pointer CDC) |
+
+---
 
 ## Overview
 
